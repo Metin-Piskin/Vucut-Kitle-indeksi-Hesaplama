@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Vücut Kitle İndeksi Hesaplama\Vücut Kitle İndeksi Hesaplama\bin\Debug\Vücut Kitle İndeksi Hesaplama.exe.config
+C:\Users\Metin\source\repos\Metin Form\Vücut Kitle İndeksi Hesaplama\Vücut Kitle İndeksi Hesaplama\bin\Debug\Vücut Kitle İndeksi Hesaplama.exe
+C:\Users\Metin\source\repos\Metin Form\Vücut Kitle İndeksi Hesaplama\Vücut Kitle İndeksi Hesaplama\bin\Debug\Vücut Kitle İndeksi Hesaplama.pdb
+C:\Users\Metin\source\repos\Metin Form\Vücut Kitle İndeksi Hesaplama\Vücut Kitle İndeksi Hesaplama\obj\Debug\Vücut Kitle İndeksi Hesaplama.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Vücut Kitle İndeksi Hesaplama\Vücut Kitle İndeksi Hesaplama\obj\Debug\Vücut_Kitle_İndeksi_Hesaplama.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Vücut Kitle İndeksi Hesaplama\Vücut Kitle İndeksi Hesaplama\obj\Debug\Vücut Kitle İndeksi Hesaplama.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Vücut Kitle İndeksi Hesaplama\Vücut Kitle İndeksi Hesaplama\obj\Debug\Vücut Kitle İndeksi Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Vücut Kitle İndeksi Hesaplama\Vücut Kitle İndeksi Hesaplama\obj\Debug\Vücut Kitle İndeksi Hesaplama.exe
+C:\Users\Metin\source\repos\Metin Form\Vücut Kitle İndeksi Hesaplama\Vücut Kitle İndeksi Hesaplama\obj\Debug\Vücut Kitle İndeksi Hesaplama.pdb
+C:\Users\Metin\source\repos\Metin Form\Vücut Kitle İndeksi Hesaplama\Vücut Kitle İndeksi Hesaplama\obj\Debug\Vücut_Kitle_İndeksi_Hesaplama.Form2.resources
